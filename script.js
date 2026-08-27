@@ -10,4 +10,5 @@ botao.addEventListener('click', () => {
   // Altera o texto da descrição ao clicar
   descricao.textContent = 'Você clicou no botão! Agora você faz parte do nosso universo dos games.';
   descricao.style.color = '#38bdf8'; // Muda a cor do texto
+  
 });
